@@ -1,5 +1,5 @@
 # How to use Gulp and Compass with Magento
-***
+
 ### 1. Install Node.js on your Computer
 https://nodejs.org/en/
 
@@ -13,7 +13,7 @@ $ cd ~
 $ sudo gem update --system
 ```
 
-### 4. Install Dependancy Globally
+### 4. Install dependencies globally
 ```
 $ sudo npm install gulp --save-dev
 $ sudo gem install -n /usr/local/bin compass
