@@ -8,7 +8,6 @@ var packageName = 'rwd',
     path = require('path'),
     imagemin = require('gulp-imagemin'),
     del = require('del'),
-    autoprefixer = require('gulp-autoprefixer'),
     pathToProject = path.join(__dirname, 'skin\\frontend\\' + packageName + '\\default\\');
 
 //######################## CONSTRUCT PATHS ############################################
