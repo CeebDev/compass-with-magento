@@ -1,7 +1,6 @@
 # How to use Gulp and Compass with Magento
 
-### 1. Install Node.js on your Computer
-https://nodejs.org/en/
+### 1. Install [Node.js](https://nodejs.org/en/) on your Computer
 
 ### 2. Go to Base Path
 ```
