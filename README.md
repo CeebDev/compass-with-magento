@@ -17,7 +17,7 @@ $ sudo gem update --system
 ```
 
 $ sudo npm install gulp-watch gulp-compass path gulp-imagemin del --save-dev;
-
+```
 
 ### 5. Copy and configure Gulpfile
 
