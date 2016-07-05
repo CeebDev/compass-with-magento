@@ -40,7 +40,7 @@ Gulp compress image, drop the minified image in the real 'images' folder and cle
 ### 7. FAQ
 
 - Gulp don't install properly, why ?
-Try to install Ruby Dev Kit.
+-- Try to install Ruby Dev Kit.
 
 - Gulp stop compile when I save, why ?
-Try to Ctrl + C and rerun '$ gulp' command
+-- Try to Ctrl + C and rerun '$ gulp' command
